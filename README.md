@@ -11,6 +11,6 @@ Astralbody888
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE Version 3.
+None. Code is merely for demonstrative purposes and can be taken and used by anyone, but I would appreciate a mention. 
 
-I do not own or claim any rights to the soundclips used, which are the sole property of Cartoon Network Studios and Warner Bros Television Distribution, and are used solely through fair-use.
+I do not own or claim any rights to the soundclips used, which are the sole property of Cartoon Network Studios and Warner Bros Television Distribution, and are used solely through fair-use. 
